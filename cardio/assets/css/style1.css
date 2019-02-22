@@ -1,3 +1,7 @@
+header, footer, section, aside, main, nav, figure, article {
+    display: block; 
+}
+
 body
 {
     margin: 0 auto;
